@@ -1,0 +1,9 @@
+{
+  "name": "DrawIODocument.Editor",
+  "references": [
+    "DrawIODocument"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
