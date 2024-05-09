@@ -1,4 +1,10 @@
 {
-  "name": "com.boysheo.drawio",
-  "version": "0.0.1"
+  "name": "boysheo.drawio",
+  "version": "0.0.1",
+  "displayName": "BoysheO.DrawIO",
+  "author": {
+    "name": "BoysheO",
+    "email": "BoysheO@outlook.com",
+    "url": "https://github.com/boysheo/"
+  }
 }
